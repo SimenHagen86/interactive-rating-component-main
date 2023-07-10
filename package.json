@@ -4,5 +4,12 @@
   },
   "dependencies": {
     "vite": "^4.3.9"
-  }
+  },
+  "name": "interactive-rating-component-main",
+  "description": "This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Simen Hagen",
+  "license": "ISC"
 }
