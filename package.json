@@ -3,7 +3,7 @@
     "dev": "vite"
   },
   "dependencies": {
-    "vite": "^4.3.9"
+    "vite": "^4.5.3"
   },
   "name": "interactive-rating-component-main",
   "description": "This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
